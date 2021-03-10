@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "pwa-chrome",
+            "name": "http://liveserver",
+            "request": "launch",
+            "url": "http://liveserver"
+        }
+    ]
+}
